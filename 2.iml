@@ -24,7 +24,6 @@
           <file>file://$MODULE_DIR$/web/WEB-INF/ApplicationContext.xml</file>
         </fileset>
         <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/web/WEB-INF/ApplicationContext.xml</file>
           <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
           <file>file://$MODULE_DIR$/src/main/java/com/configuration/Config.java</file>
         </fileset>
@@ -38,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/out" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
     <orderEntry type="inheritedJdk" />
