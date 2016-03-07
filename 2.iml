@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" version="4">
   <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
+          <file>file://$MODULE_DIR$/src/main/java/com/configuration/Config.java</file>
+        </fileset>
+      </configuration>
+    </facet>
     <facet type="web" name="Web">
       <configuration>
         <descriptors>
@@ -13,17 +21,6 @@
           <root url="file://$MODULE_DIR$/src/main/java" />
           <root url="file://$MODULE_DIR$/src/main/resources" />
         </sourceRoots>
-      </configuration>
-    </facet>
-    <facet type="Spring" name="Spring">
-      <configuration>
-        <fileset id="web dispatcherServlet servlet context" name="MVC dispatcherServlet servlet context" removed="true">
-          <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
-        </fileset>
-        <fileset id="fileset" name="Spring Application Context" removed="false">
-          <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
-          <file>file://$MODULE_DIR$/src/main/java/com/configuration/Config.java</file>
-        </fileset>
       </configuration>
     </facet>
   </component>
