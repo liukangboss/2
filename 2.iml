@@ -17,6 +17,9 @@
     </facet>
     <facet type="Spring" name="Spring">
       <configuration>
+        <fileset id="web dispatcherServlet servlet context" name="MVC dispatcherServlet servlet context" removed="true">
+          <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
+        </fileset>
         <fileset id="fileset" name="Spring Application Context" removed="false">
           <file>file://$MODULE_DIR$/web/WEB-INF/dispatcherServlet-servlet.xml</file>
           <file>file://$MODULE_DIR$/src/main/java/com/configuration/Config.java</file>
