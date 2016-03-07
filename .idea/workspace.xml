@@ -2,8 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/2.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/configuration/Config.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/control/Control.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/dao/UserDao.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/domain/User.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/imp/UserDaoImp.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/com/service/MyService.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/aopalliance-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/c3p0-0.9.1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/commons-logging-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/hamcrest-core-1.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/jsp-api.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/jstl-1.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/junit-4.9.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/mybatis-3.3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/mybatis-spring-1.2.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/mysql-connector-java-5.1.38.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/servlet-api.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-aop-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-beans-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-context-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-core-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-expression-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-jdbc-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-tx-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-web-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/lib/spring-webmvc-4.2.5.RELEASE.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/classes/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/dispatcherServlet-servlet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/pages/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/pages/success.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/pages/test.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/index.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
@@ -427,38 +458,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="out" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1247,6 +1246,7 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="" />
       <changelist id="" name="New changelist" comment="" />
+      <changelist id="" name="New changelist" comment="" />
       <created>1456920778642</created>
       <option name="number" value="Default" />
       <updated>1456920778642</updated>
@@ -1268,19 +1268,7 @@
       <workItem from="1457340686103" duration="688000" />
       <workItem from="1457344570451" duration="3765000" />
       <workItem from="1457348875908" duration="847000" />
-      <workItem from="1457349764052" duration="1328000" />
-    </task>
-    <task id="LOCAL-00022" summary="这只是个测试&#10;&#10;(cherry picked from commit 470b2825353e87281def636c16f6336062307e3c)&#10;">
-      <created>1457332630042</created>
-      <option name="number" value="00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1457332630042</updated>
-    </task>
-    <task id="LOCAL-00023" summary="这只是个测试&#10;&#10;(cherry picked from commit 470b2825353e87281def636c16f6336062307e3c)&#10;">
-      <created>1457332732010</created>
-      <option name="number" value="00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1457332732010</updated>
+      <workItem from="1457349764052" duration="1421000" />
     </task>
     <task id="LOCAL-00024" summary="这只是个测试&#10;&#10;(cherry picked from commit 470b2825353e87281def636c16f6336062307e3c)&#10;">
       <created>1457332795833</created>
@@ -1564,7 +1552,19 @@
       <option name="project" value="LOCAL" />
       <updated>1457350852659</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="New changelist">
+      <created>1457351099608</created>
+      <option name="number" value="00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1457351099608</updated>
+    </task>
+    <task id="LOCAL-00072" summary="New changelist">
+      <created>1457351170370</created>
+      <option name="number" value="00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1457351170370</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1600,7 +1600,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66256000" />
+    <option name="totallyTimeSpent" value="66349000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
