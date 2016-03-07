@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/artifacts/2/WEB-INF/lib/mysql-connector-java-5.1.38.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_38.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_37.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.iml" afterPath="$PROJECT_DIR$/2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-    </list>
+    <list default="true" id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/target/classes/" />
     <ignored path="$PROJECT_DIR$/target/test-classes/" />
@@ -69,13 +63,11 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.029411">
-              <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+            <state vertical-scroll-proportion="-11.764706">
+              <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
               <folding>
-                <marker date="1457337612144" expanded="true" signature="59:108982" placeholder="..." />
-                <marker date="1457337612144" expanded="true" signature="98:192" placeholder="..." />
-                <marker date="1457337612144" expanded="true" signature="105901:105974" placeholder="..." />
-                <marker date="1457337612144" expanded="true" signature="105901:105989" placeholder="..." />
+                <marker date="1457337703941" expanded="true" signature="59:109360" placeholder="..." />
+                <marker date="1457337703941" expanded="true" signature="98:192" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -1246,7 +1238,7 @@
       <workItem from="1457330780802" duration="1957000" />
       <workItem from="1457332769364" duration="1523000" />
       <workItem from="1457334350315" duration="554000" />
-      <workItem from="1457337410196" duration="294000" />
+      <workItem from="1457337410196" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="这只是个测试">
       <created>1457316201090</created>
@@ -1470,7 +1462,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457334540107</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="这只是个测试&#10;&#10;(cherry picked from commit 470b2825353e87281def636c16f6336062307e3c)&#10;">
+      <created>1457337708008</created>
+      <option name="number" value="00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1457337708008</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1506,7 +1504,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57185000" />
+    <option name="totallyTimeSpent" value="57193000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1624,10 +1622,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1457337612144" expanded="true" signature="59:108982" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="98:192" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105974" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105989" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="59:109360" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="98:192" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1636,6 +1632,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1660,10 +1657,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1457337612144" expanded="true" signature="59:108982" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="98:192" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105974" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105989" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="59:109360" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="98:192" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1680,6 +1675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1873,6 +1869,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0390625">
           <caret line="13" column="63" selection-start-line="13" selection-start-column="63" selection-end-line="13" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1894,13 +1891,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.029411">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        <state vertical-scroll-proportion="-11.764706">
+          <caret line="31" column="14" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
           <folding>
-            <marker date="1457337612144" expanded="true" signature="59:108982" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="98:192" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105974" placeholder="..." />
-            <marker date="1457337612144" expanded="true" signature="105901:105989" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="59:109360" placeholder="..." />
+            <marker date="1457337703941" expanded="true" signature="98:192" placeholder="..." />
           </folding>
         </state>
       </provider>
