@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/2.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2.iml" afterPath="$PROJECT_DIR$/2.iml" />
-    </list>
+    <list default="true" id="f75bd680-310c-428c-a74e-c5d6a222d34c" name="Default" comment="" />
     <ignored path=".idea/dataSources.local.xml" />
     <ignored path="$PROJECT_DIR$/target/classes/" />
     <ignored path="$PROJECT_DIR$/target/test-classes/" />
@@ -1274,13 +1270,7 @@
       <workItem from="1457334350315" duration="554000" />
       <workItem from="1457337410196" duration="2737000" />
       <workItem from="1457340686103" duration="688000" />
-      <workItem from="1457344570451" duration="2635000" />
-    </task>
-    <task id="LOCAL-00005" summary="新的版本">
-      <created>1457316779762</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1457316779762</updated>
+      <workItem from="1457344570451" duration="2646000" />
     </task>
     <task id="LOCAL-00006" summary="新的版本">
       <created>1457316954797</created>
@@ -1570,7 +1560,13 @@
       <option name="project" value="LOCAL" />
       <updated>1457347065789</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="这只是个测试&#10;&#10;(cherry picked from commit 470b2825353e87281def636c16f6336062307e3c)&#10;">
+      <created>1457347210243</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1457347210243</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1606,7 +1602,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62951000" />
+    <option name="totallyTimeSpent" value="62962000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
